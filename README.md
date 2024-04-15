@@ -1,2 +1,2 @@
 # CPanalysis
-Effects of concentrated animal feeding operations on the distribution and genetic variation of subtypes of Cryptosporidium parvum in dairy cattle
+Environmental factors affecting the genetic variation and subtype distribution of Cryptosporidium parvum in dairy cattle
