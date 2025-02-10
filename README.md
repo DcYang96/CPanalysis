@@ -1,2 +1,2 @@
 # CPanalysis
-Environmental factors affecting the genetic variation and subtype distribution of Cryptosporidium parvum in dairy cattle
+The impact of anthropogenic and environmental factors on the genetic variation and subtype distribution of Cryptosporidium parvum in dairy cattle
